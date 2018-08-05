@@ -1,5 +1,5 @@
 # SpringEventHandlingProject
-* These are the main five ways for Event Handling on ApplicationContext
+* These are the main five ways for Event Handling
 	
 >1. ContextRefreshedEvent
 ```text
